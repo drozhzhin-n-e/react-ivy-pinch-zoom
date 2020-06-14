@@ -6,8 +6,6 @@ React library for images scaling and dragging with touch screen gestures.
 
 Live demo can be found on [home page](http://ivylab.space/pinch-zoom/react).
 
-<img src="http://ivylab.space/assets/img/basic-usage.gif" />
-
 ## Installation
 
 Install the npm package.
